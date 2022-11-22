@@ -14,7 +14,7 @@
 
 -Мышь.
 
-## Изображение из игры:
+## Изображение из ELMA365:
 
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/85873202/203308690-02a0e75c-1227-472d-a119-a4ca7b8b1008.png">
 
